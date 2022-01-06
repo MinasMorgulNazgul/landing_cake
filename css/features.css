@@ -1,0 +1,24 @@
+.features  {
+  padding: 41px 0;
+  background: #f3f3f3;
+}
+
+.features-item  {
+  padding: 15px;
+
+}
+
+.single-product  {
+  margin-bottom: 50px;
+}
+
+.single-product img  {
+  margin-bottom: 20px;
+  width: 100%;
+  border-radius: 15px;
+}
+
+.img-fluid  {
+  max-width: 90%;
+  height: auto;
+}
