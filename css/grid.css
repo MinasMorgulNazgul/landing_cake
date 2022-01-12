@@ -67,6 +67,10 @@
   clear: both;
 }
 
+.margin-top-20px {
+  margin-top: 20px;
+}
+
 @media (max-width: 960px)  {
   .column-1-4, {
     float: left;
