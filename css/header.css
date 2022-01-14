@@ -58,6 +58,10 @@
   .header-logo {
     float: none;
   }
+
+  .header-nav  {
+    float: left;
+  }
 }
 
 @media (max-width:  360px) {
